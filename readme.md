@@ -7,6 +7,8 @@ creo un metodo getEmails
     creo un ciclo for che itera 10 volte 
         faccio una chiamata get con axios sulla api di boolean e pusho il risultato data.response nel array emails
 
+invoco il metodo con hook created
+
 creo un ul ed un li in html
 
 faccio un v-for nel ul 
